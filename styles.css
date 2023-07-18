@@ -1,2 +1,8 @@
-
+.portfolio{
+    width: 600px;
+    border: 3px solid black;
+	border-radius:8px;
+    padding-left: 30px ;
+    padding-right: 80px ;
+}
 /* Your CSS Code here. */
